@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Apoderoides"]
+	path = Apoderoides
+	url = https://github.com/sa-to-shi-a-o-ki/apoderoides
 [submodule "es.dif"]
 	path = es.dif
 	url = https://github.com/cran/es.dif
